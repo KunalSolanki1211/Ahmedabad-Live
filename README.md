@@ -106,7 +106,7 @@ Project under the guidance of **Prof. Manish Joshi**, Parul Institute of Compute
 ## 📄 Documentation
 
 The full project documentation is available in the `/Docs` folder.  
-You may also [click here](./Docs/Ahmedabad%20Live%20final.pdf.) once the PDF is uploaded.
+You may also [click here](.Docs/Ahmedabad Live final.pdf.) once the PDF is uploaded.
 
 ---
 
